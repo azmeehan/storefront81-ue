@@ -1,4 +1,7 @@
 mountpoints:
   /:
-    url: https://content.da.live/aemsites/da-block-collection/
+    url: https://content.da.live/azmeehan/storefront81-ue/
     type: markup
+
+folders:
+  /products/: /products/default
